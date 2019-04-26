@@ -1,0 +1,7 @@
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\bin\Debug\BAgeciaViajes.dll.config
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\bin\Debug\BAgeciaViajes.dll
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\bin\Debug\BAgeciaViajes.pdb
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\obj\Debug\BAgeciaViajes.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\obj\Debug\BAgeciaViajes.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\obj\Debug\BAgeciaViajes.dll
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\BAgeciaViajes\obj\Debug\BAgeciaViajes.pdb

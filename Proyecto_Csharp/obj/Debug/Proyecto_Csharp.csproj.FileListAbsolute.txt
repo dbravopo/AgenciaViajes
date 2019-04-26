@@ -1,0 +1,36 @@
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe.config
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.pdb
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Form1.resources
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Properties.Resources.resources
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormRegistrar.resources
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.GenerateResource.Cache
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.exe
+C:\Users\trigoso\Desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.pdb
+C:\Users\trigoso\Desktop\Copia desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe.config
+C:\Users\trigoso\Desktop\Copia desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.exe
+C:\Users\trigoso\Desktop\Copia desktop\Curso C# - Poo\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.pdb
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe.config
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.exe
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.pdb
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.pdb
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csprojResolveAssemblyReference.cache
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Properties.Resources.resources
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormActualizar.resources
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormListar.resources
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormRegistrar.resources
+C:\Users\trigoso\Desktop\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.GenerateResource.Cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe.config
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.exe
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\bin\Debug\Proyecto_Csharp.pdb
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Properties.Resources.resources
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormActualizar.resources
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormListar.resources
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.Vistas.Empleados.FormRegistrar.resources
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.exe
+C:\Users\Windows\Desktop\React\Proyecto_Csharp\Proyecto_Csharp\obj\Debug\Proyecto_Csharp.pdb
